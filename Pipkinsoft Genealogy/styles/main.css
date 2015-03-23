@@ -1,0 +1,158 @@
+﻿html, body
+{
+    height: 100%;
+}
+
+body
+{
+    background: url(/images/old_ships.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'IM Fell English', serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3A290E;
+}
+
+ul, ul ul
+{
+    list-style-type: disc;
+    padding-left: 25px;
+}
+
+li
+{
+    padding-bottom: 5px;
+}
+
+.clear
+{
+    clear: both;
+    height: 1px;
+}
+
+.main
+{
+    width: 970px;
+    margin: auto;
+    padding: 15px 15px 50px 15px;
+}
+
+h1
+{
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 100px;
+    line-height: 120px;
+    color: #712e02;
+    margin: 0px 0px 20px 0px;
+    text-shadow: 4px 4px rgba(20, 20, 20, 0.2);
+}
+
+h2
+{
+    font-family: 'IM Fell English', serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: #712e02;
+}
+
+h3
+{
+    font-family: 'IM Fell English', serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #712e02
+}
+
+
+a
+{
+    color: #732E00;
+    text-decoration: none;
+}
+
+    a:hover
+    {
+        text-decoration: underline;
+    }
+
+.tree
+{
+    float: left;
+    border: solid 38px #111111;
+    box-shadow: 5px 5px 15px rgba(20, 20, 20, 0.55);
+}
+
+.content
+{
+    width: 420px;
+    float: right;
+    padding-bottom: 30px;
+}
+
+.price
+{
+    font-size: 35px;
+    color: #122e13;
+    font-weight: bold;
+    vertical-align: middle;
+    font-family: 'Jim Nightshade', cursive;
+}
+
+.columnLeft
+{
+    width: 600px;
+    float: left;
+}
+
+.columnRight
+{
+    width: 300px;
+    float: right;
+}
+
+.formRow
+{
+    margin-bottom: 10px;
+}
+
+.field input
+{
+    width: 250px;
+    font-size: 18px;
+    padding: 3px 7px;
+    border: solid 1px #CFAEA0;
+    background-color: #FAF6DC;
+    border-radius: 5px;
+}
+
+.submit
+{
+  font-size: 20px;
+  color: #D3C397;
+  background-color: #30260A;
+  border-style: none;
+  padding: 10px 21px;
+  border-radius: 7px;
+  border: solid 1px #30260A;
+  cursor: pointer;
+}
+
+    .submit:hover
+    {
+        color: #30260A;
+        background-color: #D3C397;
+    }
+
+.error
+{
+    color: red;
+}
+
+.number
+{
+  font-family: 'Jim Nightshade', cursive;
+  font-size: larger;
+  font-weight: bold;
+  line-height: 24px;
+}
