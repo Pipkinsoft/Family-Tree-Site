@@ -75,7 +75,7 @@
                 </li>
                 <li>When your poster is ready, we will send you a proof to review</li>
                 <li>We will make any revisions necessary and send a new proof as needed</li>
-                <li>If the proof is accepted, we will ship your poster once we receive the remaining <span class="number">$650</span> + shipping &amp; handling</li>
+                <li>If the proof is accepted, we will print, frame, and ship your poster once we receive the remaining <span class="number">$650</span> + shipping &amp; handling</li>
             </ul>
         </div>
         <div class="columnRight">
