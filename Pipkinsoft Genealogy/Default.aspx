@@ -16,9 +16,9 @@
     <link href="http://fonts.googleapis.com/css?family=Jim+Nightshade" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=IM+Fell+English:400,400italic" rel="stylesheet" type="text/css" />
     <script src="https://www.google.com/recaptcha/api.js"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-550afd1673f4d0f4" async="async"></script>
 </head>
 <body>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-550afd1673f4d0f4" async="async"></script>
     <form id="form" runat="server">
     <div class="main">
         <h1>Family Tree Poster</h1>
@@ -45,13 +45,13 @@
                     </ul>
                 </li>
                 <li>War veteran badges with legend</li>
-                <li>Heritage breakdown of children by country with flag and percentage</li>
+                <li>Approximate Heritage breakdown of children by country with flag and percentage</li>
                 <li>High-quality 24" x 36" poster print</li>
                 <li>2" black gallery frame with anti-glare acrylic facing</li>
             </ul>
 
             <p>
-                All of that for just <span class="price">$750</span> + shipping &amp; handling
+                All of that for just <span class="price">$1200</span> + shipping &amp; handling
             </p>
 
             <p>
@@ -65,7 +65,7 @@
             <ul>
                 <li>Submit your project request with the form to the right</li>
                 <li>We will contact you and gather initial information about what you know of your family tree</li>
-                <li>Once we receive a non-refundable <span class="number">$100</span> security deposit,<br />we will start your project</li>
+                <li>Once we receive a non-refundable <span class="number">$200</span> security deposit,<br />we will start your project</li>
                 <li>While we are working on your project, you can gather family photos to use in the poster
                     <ul>
                         <li>
@@ -75,7 +75,7 @@
                 </li>
                 <li>When your poster is ready, we will send you a proof to review</li>
                 <li>We will make any revisions necessary and send a new proof as needed</li>
-                <li>If the proof is accepted, we will print, frame, and ship your poster once we receive the remaining <span class="number">$650</span> + shipping &amp; handling</li>
+                <li>If the proof is accepted, we will print, frame, and ship your poster once we receive the remaining <span class="number">$1000</span> + shipping &amp; handling</li>
             </ul>
         </div>
         <div class="columnRight">
