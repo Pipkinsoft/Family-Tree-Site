@@ -27,7 +27,7 @@
             <h2>High-Quality, Framed Family Tree Poster</h2>
             <p>
                 This poster features a large, high-quality print with a custom design detailing 
-                your family tree going back up to <em><strong>eight</strong></em> generations.
+                your family tree going back up to <em><strong>eight</strong></em><sup>*</sup> generations.
             </p>
             <p>
                 The poster includes:
@@ -52,6 +52,13 @@
 
             <p>
                 All of that for just <span class="price">$1200</span> + shipping &amp; handling
+            </p>
+
+            <p class="small">
+                <sup>*</sup> Four Generations are guaranteed.  For every person that cannot be discovered at the 
+                4th generational level or lower, <span class="price-small">$50</span> will be taken off of the price.  So, for example, if someone at 
+                the 3rd generational level cannot be discovered, then <span class="price-small">$150</span> (<span class="price-small">3 x $50</span>) 
+                would be taken off the price (one 3rd generation person + their parents at the 4th generational level).
             </p>
 
             <p>

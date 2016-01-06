@@ -99,6 +99,14 @@ a
     font-family: 'Jim Nightshade', cursive;
 }
 
+.price-small
+{
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: middle;
+    font-family: 'Jim Nightshade', cursive;
+}
+
 .columnLeft
 {
     width: 600px;
@@ -143,6 +151,11 @@ a
         color: #30260A;
         background-color: #D3C397;
     }
+
+.small
+{
+    font-size: 15px;
+}
 
 .error
 {
